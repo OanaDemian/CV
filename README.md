@@ -1,69 +1,88 @@
-## Your Name
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+## Oana Demian
+Passionate and empathetic Software Engineer, recent graduate of the intensive Makers Academy Bootcamp with a background in Applied Behaviour Analysis and Special Needs Education. In my former profession as a Board Certified Behaviour Analyst, I saw technology breaking boundaries and changing people's lives. I would like to be part of a team that creates products aimed at improving our lives and I think technology is a way to do this at a grand scale.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Pawty Time**               | A play dating web app, for pet owners to organise dates for their pets. Users can create and edit multiple pet profiles, find, request, approve or reject playdates, and see their pet’s matches on the pet’s profile. | Javascript, Node.js, Jest, Express, MongoDB, Mongoose, React, Cypress, HTML, CSS, Git, Github Actions. | 
+| **Acebookers** | A social media web app. Users can create an account, authenticate, create posts and comment on posts. | Javascript, Node.js, Jest, Express, MongoDB, Mongoose, React, Cypress, HTML, CSS, Git. |
+| **MakersBNB**               | A play dating web app, for pet owners to organise dates for their pets. Users can create and edit multiple pet profiles, find, request, approve or reject playdates, and see their pet’s matches on the pet’s profile. | Ruby, Sinatra, RSpec, SQL (PostgreSQL, TablePlus), HTML, CSS, Git. |
+| **Banking Test** | Technical test. Solo project. Enables users to deposit, withdraw and print formatted statements. | Javascript, Node, Jest, Git. |
+
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Blooming Tree Clinic** (February 2018 - January 2022)  
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+_Applied Behaviour Analysis (ABA) Consultant_
+*Worked in a clinic setting for children with autism. Responsible for the education and welfare of the children, ensuring the quality of ABA programs through support and management of ABA supervisors and ABA tutors.*
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Supported and provided training for:
 
-- Any experience relevent to software development
+- ABA Supervisors by observing their performance with clients, giving feedback on their performance, problem solving, guiding development of behavioural case conceptualisation, reviewing the supervisors' written materials (data sheets, reports).
+- ABA Instructors to deliver high-quality ABA services to clients, improve and maintain behaviour-analytic, professional, and ethical repertoires.
+
+
+**Independent Behaviour Analyst** (June 2016 - January 2018)  
+_Applied Behaviour Analysis (ABA) Consultant_
+*Worked with children diagnosed with autism and their families. Developed home, nursery, school and community based therapy programs.*
+
+-Conducted client direct observations, assessments, parent interviews, wrote assessment reports, developed programs to increase skill acquisition and behavioural interventions to decrease problem behaviour.
+- Trained parents and in-home staff on implementing personalised treatment and behaviour plans.
+- Recorded, graphed, analysed and summarised data on observable learner behaviour in order to track and evaluate learner’s progress on treatment plan objectives.
+- Attended multidisciplinary team meetings and educational tribunals and collaborated with other professionals: teachers, speech and language therapists, Special Educational Needs Coordinators, Educational Psychologists.
+
+**Independent ABA Tutor** (October 2011 - January 2018)  
+_ABA Tutor_
+
+*Worked with dozens of children diagnosed with autism and their families implementing home, nursery, school and/or community based therapy programs designed by board certified behaviour analysts.*
+
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+- As a BCBA, working with a range of key stakeholders was an important skill. 
+- An Applied Behaviour Analysis therapy programme is a joint effort - treatment plan goals are implemented by behaviour technicians, teaching assistants and parents, overseen by a BCBA and and generalised by a variety of other people including classroom teachers, Occupational Therapist, Speech and and Language Therapists, grandparents and nannies. 
+- With proper buy in, the other persons involved in the child's education could help me to implement and generalise the treatment plan and without buy in they could jeopardise the intervention plan. Building a strong collaborative relationship with parents and other professionals required interpersonal skills, such as good communication and interpersonal skills, alongside technical skills.
 
-#### Another skill
+#### Working in a team
+- I enjoy working closely with people to build something better together. I used to have a caseload of 10-12 students, each with a team of two to three behaviour technicians who were implementing the treatment plans I designed. I was responsible for providing support, technical training and clearly documented comprehensive treatment plans. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
+#### Analysing behaviour
+- In my previous career as a Board Certified Behaviour Analyst (BCBA) I used task analysis to break complex tasks into a sequence of smaller, more manageable and achievable steps or actions.  
+- For some children with learning disorders such as autism, even simple tasks presented complex challenges. Understanding the steps involved in a particular task, their order and the difficulties they posed for the learner was important in determining how the skills would be taught. It also assisted in identifying any steps that needed extra instruction and could be taught outside of the chain. 
+- This is similar to approaching programming and automation challenges where each step needs to be carefully scripted.
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (November 2022 to March 2023)
+- At Makers, I had the opportunity to work in an agile team with daily morning standups, refinement sessions to design features and carefully plan our MVP.  
+- We utilised TDD, pair-programming practices, sprints, CI/CD, Git workflow and GitHub actions for automated testing. 
+- We had retros at the end of each sprint to reflect on the past sprint. 
 
-#### Your University / College (start_date to end_date)
+#### Bangor University, UK | Psychology (October 2011 to July 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Postgraduate Diploma in Applied Behaviour Analysis 
+- 2:1
 
-#### Any other qualifications
+#### University of Bucharest, Romania | Psychology and Educational Sciences (October 2009 to June 2011)
 
-That in some arguable way make you a better software developer or well-rounded person
+- Master of Science in Speech and Language Therapy 
+- Dissertation on ‘Strategies for enhancing social skills in preteens with intellectual disabilities. Analysed results using SPSS software. 
+- First
 
-## Hobbies
+#### University of Bucharest, Romania | Psychology and Educational Sciences (October 2006 to June 2009)
+- Bachelor of Science in Psychology
+- First
 
-Any cool stuff that makes you a super part of a software development team
+#### Ion C Bratianu National College, Pitesti, Romania (October 2006 to June 2009)
+- Baccalaureate Diploma
+- Maths 95% Computer Science 97% English 100% Romanian Language 100% Romanian Literature 94% Psychology 88.5%
+
+
+#### Other qualifications
+
+Board Certified Behaviour Analyst (BCBA) Certification Number: 1-16-22780 (June 2016 - present)
+
